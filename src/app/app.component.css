@@ -1,0 +1,30 @@
+.app-main-content{
+    min-height: 500px;
+}
+.app-main-img{
+    height: 800px;
+    width: 1200px;
+}
+.main-second-main{
+    
+    height: 350px;
+}
+.main-second-sub{
+    border:1px solid grey ;
+    border-radius: 30px;
+    width: 300px;
+    height:300px;
+    padding: 20px;
+    transition: all 0.3s ease;
+}
+
+.main-card-img{
+    height:150px;
+    width:250px;
+    padding: 5px;
+}
+
+.main-card-p{
+    font: .85em sans-serif;
+
+}
