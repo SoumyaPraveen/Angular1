@@ -4,7 +4,7 @@ import {FirstComponent} from './first/first.component'
  import {FooterComponent} from './components/footer/footer.component'
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, FooterComponent,RouterModule],
+  imports: [RouterOutlet,RouterModule],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
